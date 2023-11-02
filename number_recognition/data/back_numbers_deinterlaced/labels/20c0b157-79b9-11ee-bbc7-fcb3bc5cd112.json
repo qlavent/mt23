@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "8",
+      "points": [
+        [
+          27.15,
+          26.199999999999996
+        ],
+        [
+          14.749999999999993,
+          7.599999999999998
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\images\\20c0b157-79b9-11ee-bbc7-fcb3bc5cd112.jpg",
+  "imageData": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAuACsDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDjpGYKSegrd0LwtcaxbvdB9kauVAwD9e4pJLRXTDNkDtiut8II7aXfRFskkleOm7gUUoo9fFSa1OP1LQjZISJtxBwflx/WqXhe3M2thuy5rchks7ax1WV/3k0cpO7kc5HGOlWobZLDVLC6MflNdR7tmd2Mj1oUfeujjWJfK4sm1O5TSkaRx9Pr+tea3h+0Xk0xOC7lsV6d4z08XOitOvLRMGH4fjXk7S5YmrcUziep1P25M4Iy1df4DRrq31Rd+Bhecd64FEOQx9a7r4eH/Qr4hMr5yAnPWs6SaPXxNROmNu47LRtN1SCePdI7mSFtxGWB46Zxz61HcJPNb6M9yNsrpk9DgY6cVreKYIp3sFx80bNk88Cs671VLuBbZl+aByAc9ePpW0UeM9TpLSGO90hoZeYihDD1rx3VNGnsNTuLWJPkjcheR06+teveG33I8HooI+hpJ9IinneWVcuxyeT/AI05ouMTw/7XKRjPH4VueHvFlxoG9EGUlxu6cf8AjprnDTRyalKxUpNqx6vZ+ONL1ScrONshwM5Y/wAlFL4gtITELqzO4Mwz1/rXkflAOx/vVtaHrl1Y3cVqT5kDtgpgL198ZqjNI9d8JEfaol6kKqN+ddRdWqi6kwOM155ouryabcu8SZIO7r3/ACrbn8YXbTMTH1P94f8AxNS52OiEbo//2Q==",
+  "imageHeight": 46,
+  "imageWidth": 43
+}

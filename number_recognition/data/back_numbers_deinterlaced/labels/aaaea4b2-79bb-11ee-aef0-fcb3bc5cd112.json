@@ -1,0 +1,44 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "6",
+      "points": [
+        [
+          39.949999999999996,
+          2.6999999999999997
+        ],
+        [
+          73.44999999999999,
+          39.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "4",
+      "points": [
+        [
+          34.24999999999999,
+          53.9
+        ],
+        [
+          8.049999999999997,
+          14.1
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\images\\aaaea4b2-79bb-11ee-aef0-fcb3bc5cd112.jpg",
+  "imageData": "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",
+  "imageHeight": 86,
+  "imageWidth": 90
+}

@@ -1,0 +1,61 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2",
+      "points": [
+        [
+          30.65,
+          45.199999999999996
+        ],
+        [
+          11.350000000000001,
+          20.6
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "2",
+      "points": [
+        [
+          33.24999999999999,
+          13.4
+        ],
+        [
+          54.74999999999999,
+          34.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "3",
+      "points": [
+        [
+          55.85,
+          5.4
+        ],
+        [
+          77.85,
+          33.199999999999996
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\images\\169f55bc-79b9-11ee-bcea-fcb3bc5cd112.jpg",
+  "imageData": "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",
+  "imageHeight": 71,
+  "imageWidth": 86
+}

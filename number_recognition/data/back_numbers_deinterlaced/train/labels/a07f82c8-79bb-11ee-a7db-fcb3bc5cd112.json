@@ -1,0 +1,27 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "5",
+      "points": [
+        [
+          19.35,
+          5.5
+        ],
+        [
+          35.65,
+          25.799999999999997
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\images\\a07f82c8-79bb-11ee-a7db-fcb3bc5cd112.jpg",
+  "imageData": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAqAC4DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDh7Vty1s2Wk6jqULzWltujj6tvUenqaxLIBpkjPIZgP1r6I0eBLPSrSCFPKgEYyM7s/nzWsZ8rsYyPItG8Mahrdw0SjyYYz+8kyrY/DIrutP07wz4duILVm+138rADiSPH6kVD4o1P+z/EdpagZsHO54s/fPXrjIpJ/F9xYTrcRaN5VrwC32oNn35XNbzbYjvkaFFAih2gdPmJpjwwzffi6f7RqKxv49VsoryLhHGQPT9BUxyKhSsB83aAUGuWRkGUEoJH519GCeOeOIx9Nox1r5xWxubDWI7W5j2MsgU8g5/KvoPT4li062PRPLB+lYzhaYVCnrep6XokkWo3se6YfKhy3H5AiqOseO9Cu9IeOK782R0wI/LdcHHqVrbmXTtQhCXCebk4Ayy/yrD1eytdJe2W0tfLjlPzHzCcfnmuqyZMWXPBMMsXhaAy/KGLMOh4z7VrTazpdm22a5+bpjY39BXJa1qFzKiW8txm3GPk2DnHbIGaht9N1G7QGy0v5SM5+0L/AFNJxRqkZut3Nvq9jFeXMO2VpB5J3E5x34x6d63F8a20VpFawx71WMI/JH81rH1j/kBaX/ntVvSf+QbH+P8AOpqaMmaLVnrEkzq9npXmdwftGOc+4q1qEfirUkUx2flIf4fNibH40tv/AKl/rVO66H6VPMwiipBoXiQzD7SNu0nJ/dnH5Guh0ezn0wS/bdQ+dyMDyRwPwzXnGr/fb61zFx9+s3Jtls//2Q==",
+  "imageHeight": 42,
+  "imageWidth": 46
+}

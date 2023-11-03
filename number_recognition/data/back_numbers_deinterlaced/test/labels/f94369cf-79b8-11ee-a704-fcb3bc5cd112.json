@@ -1,0 +1,61 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "4",
+      "points": [
+        [
+          31.449999999999996,
+          2.5
+        ],
+        [
+          48.65,
+          24.6
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "3",
+      "points": [
+        [
+          30.15,
+          36.199999999999996
+        ],
+        [
+          11.549999999999997,
+          5.200000000000001
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          11.149999999999999,
+          46.1
+        ],
+        [
+          0.0,
+          14.841880341880348
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\images\\f94369cf-79b8-11ee-a704-fcb3bc5cd112.jpg",
+  "imageData": "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",
+  "imageHeight": 73,
+  "imageWidth": 63
+}
